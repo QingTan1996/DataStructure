@@ -1,0 +1,5 @@
+﻿  linkStack.cpp
+  arrayStack.cpp
+  正在生成代码...
+linkStack.obj : error LNK2005: _main 已经在 arrayStack.obj 中定义
+C:\Users\tanqing\documents\visual studio 2015\Projects\DataStructure\Debug\Stack.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
